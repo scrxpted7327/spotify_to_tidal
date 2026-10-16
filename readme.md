@@ -1,5 +1,9 @@
 A command line tool for importing your Spotify playlists into Tidal. Due to various performance optimisations, it is particularly suited for periodic synchronisation of very large collections.
 
+Documentation
+-------------
+See [docs/api-documentation.md](docs/api-documentation.md) for curated API references (Spotify, TIDAL, YouTube) focused on playlist transfer and track matching.
+
 Installation
 -----------
 Clone this git repository and then run:
